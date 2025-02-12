@@ -1,5 +1,5 @@
 <h1>Palindrome</h1>
-checker that analyses the text and tells if it is a palindrome or not.
+<h3>checker that analyses the text and tells if it is a palindrome or not.</h3>
 
 
 
